@@ -3,3 +3,6 @@ catboost-info
 .DS_Store
 .Rhistory
 grep .DS_Store
+grep .DS_Store*.
+.DS_Store
+/Users/iakubovskii/Machine_Learning/RANEPA/Fintech_2020/Машинное обучение/Данные/.DS_Store
