@@ -1,3 +1,5 @@
 .DS_Store
 catboost-info
 .DS_Store
+.Rhistory
+grep .DS_Store
