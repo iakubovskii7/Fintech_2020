@@ -1,16 +1,10 @@
-grep .DS_Store
+**/*.DS_Store
 .Rhistory
 /requirements.txt
 /main.py
 /notebooks/
 /models/
 /data/
-.idea/Fintech_2020.iml
-.idea/inspectionProfiles/Project_Default.xml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/other.xml
-.idea/vcs.xml
+.idea/**
 "Машинное обучение/ДЗ1. Линейные и деревянные модели. Решение.py"
 /Машинное обучение/catboost_info/
