@@ -1,9 +1,5 @@
-.DS_Store
-catboost-info
-.Rhistory
 grep .DS_Store
-grep .DS_Store*.
-/Users/iakubovskii/Machine_Learning/RANEPA/Fintech_2020/Машинное обучение/Данные/.DS_Store
+.Rhistory
 /requirements.txt
 /main.py
 /notebooks/
@@ -16,6 +12,5 @@ grep .DS_Store*.
 .idea/modules.xml
 .idea/other.xml
 .idea/vcs.xml
-
-
-
+"Машинное обучение/ДЗ1. Линейные и деревянные модели. Решение.py"
+/Машинное обучение/catboost_info/
