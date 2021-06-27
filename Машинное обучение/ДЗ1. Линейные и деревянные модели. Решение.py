@@ -192,7 +192,6 @@ def get_all_solutions(fio):
 
     # In[303]:
 
-
     from sklearn.metrics import precision_score
     from sklearn.tree import DecisionTreeClassifier
     tree = DecisionTreeClassifier(random_state=your_number_random_state)
@@ -230,7 +229,6 @@ def get_all_solutions(fio):
     # 5. При помощи кросс-валидации найдите оптимальный параметр max_depth на границах [1, 50] для дерева решений.
     # В ответ запишите ROC AUC для оптимальной `максимальной глубины дерева`.
 
-    from sklearn.model_selection import KFold
     from sklearn.model_selection import GridSearchCV
     tree = DecisionTreeClassifier(random_state=your_number_random_state)
     parameters = {'max_depth': np.linspace(1, 50, 50)}
